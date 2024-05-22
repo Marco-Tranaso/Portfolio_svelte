@@ -1,9 +1,9 @@
 <ul>
-    <li><a class="active" href="/Portfolio_svelte">Home</a></li>
-    <li><a href="/Portfolio_svelte/2020-2021">2020-2021</a></li>
-    <li><a href="/Portfolio_svelte/2021-2022">2021-2022</a></li>
-    <li><a href="/Portfolio_svelte/2022-2023">2022-2023</a></li>
-    <li><a href="/Portfolio_svelte/2023-2024">2023-2024</a></li>
+    <li><a class="active" href="">Home</a></li>
+    <li><a href="/2020-2021">2020-2021</a></li>
+    <li><a href="/2021-2022">2021-2022</a></li>
+    <li><a href="/2022-2023">2022-2023</a></li>
+    <li><a href="/2023-2024">2023-2024</a></li>
   </ul>
 
   <style>
