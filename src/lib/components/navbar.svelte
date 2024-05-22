@@ -1,9 +1,9 @@
 <ul>
-    <li><a class="active" href="">Home</a></li>
+    <li><a class="active" href="https://marco-tranaso.github.io/Portfolio_svelte/">Home</a></li>
     <li><a href="https://marco-tranaso.github.io/Portfolio_svelte/2020-2021">2020-2021</a></li>
-    <li><a href="https://marco-tranaso.github.io/2020-2021">2021-2022</a></li>
-    <li><a href="/2022-2023">2022-2023</a></li>
-    <li><a href="/2023-2024">2023-2024</a></li>
+    <li><a href="https://marco-tranaso.github.io/2021-2022">2021-2022</a></li>
+    <li><a href="https://marco-tranaso.github.io/2022-2023">2022-2023</a></li>
+    <li><a href="https://marco-tranaso.github.io/2023-2024">2023-2024</a></li>
   </ul>
 
   <style>
