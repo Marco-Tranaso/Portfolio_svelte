@@ -1,5 +1,5 @@
 <ul>
-    <li><a class="active" href="https://marco-tranaso.github.io/Portfolio_svelte/">Home</a></li>
+    <li><a class="active" href="/Portfolio_svelte/">Home</a></li>
     <li><a href="./2020-2021">2020-2021</a></li>
     <li><a href="./2021-2022">2021-2022</a></li>
     <li><a href="./2022-2023">2022-2023</a></li>
